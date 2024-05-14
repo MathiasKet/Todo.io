@@ -1,3 +1,3 @@
 # Todo.io
 
-this is a flutterflow app
+this is a flutter app
